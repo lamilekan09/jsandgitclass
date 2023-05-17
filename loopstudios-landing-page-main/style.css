@@ -1,0 +1,232 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+header{
+    background-image: url(./images/desktop/image-hero.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    height: 70vh;
+    padding: 5% 10%;
+}
+
+nav{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    cursor: pointer;
+
+}
+ul{
+    display: flex;
+    gap: 30px;
+    list-style: none;
+    color: white;
+    cursor: pointer;
+}
+
+.taste{
+    border: 2px solid white;
+    width: max-content;
+    margin-top: 10%;
+    font-size: 3rem;
+    color: white;
+    font-family:'Josefin Sans', sans-serif;
+    text-transform: uppercase;
+    padding: 15px 35px 15px 15px;
+    
+}
+
+section{
+    padding: 10%;
+
+}
+
+.tobi{
+    display: flex;
+    align-items: end;
+}
+
+.lekan{
+    gap: 20px;
+    display: flex;
+    flex-direction: column;
+    padding: 4rem 0 0 4rem;
+    position: relative;
+    right: 150px;
+    border: 0px solid rgb(3, 5, 3);
+    background-color: white;
+}
+
+h1{
+    font-family:'Josefin Sans', sans-serif;
+    text-transform: uppercase;
+    font-size: xx-large;
+    
+}
+
+.creation{
+    display: flex;
+    text-transform: uppercase;
+    justify-content: space-between;
+    margin-top: 15%;
+    font-family:'Josefin Sans', sans-serif;
+    text-transform: uppercase;
+}
+
+.image{
+    margin-top: 80px;
+    
+    display: grid;
+    gap: 30px;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+}
+
+.deep{
+    background:url(./images/desktop/image-deep-earth.jpg);
+    height: 28rem;
+    width: 16rem;
+    color: white;
+}
+
+.deep p{
+    font: 30px;
+    width: 50px;
+    margin-top: 130%;
+    padding-left: 35px;
+    font-family:'Josefin Sans', sans-serif;
+
+}
+
+.night{
+    background:url(./images/desktop/image-night-arcade.jpg);
+    height: 28rem;
+    width: 16rem;
+    color: white;
+}
+
+.night p{
+    font: 30px;
+    width: 50px;
+    margin-top: 130%;
+    padding-left: 35px;
+    font-family:'Josefin Sans', sans-serif;
+
+}
+
+.team{
+    background:url(./images/desktop/image-soccer-team.jpg);
+    height: 28rem;
+    width: 16rem;
+    color: white;
+}
+
+.team p{
+    font: 30px;
+    width: 50px;
+    margin-top: 130%;
+    padding-left: 35px;
+    font-family:'Josefin Sans', sans-serif;
+
+}
+
+.grid{
+    background:url(./images/desktop/image-grid.jpg);
+    height: 28rem;
+    width: 16rem;
+    color: white;
+}
+
+.grid p{
+    font: 30px;
+    width: 50px;
+    margin-top: 130%;
+    padding-left: 35px;
+    font-family:'Josefin Sans', sans-serif;
+
+}
+
+.from{
+    background:url(./images/desktop/image-from-above.jpg);
+    height: 28rem;
+    width: 16rem;
+    color: white;
+}
+
+.from p{
+    font: 30px;
+    width: 50px;
+    margin-top: 130%;
+    padding-left: 35px;
+    font-family:'Josefin Sans', sans-serif;
+
+}
+
+.pocket{
+    background:url(./images/desktop/image-pocket-borealis.jpg);
+    height: 28rem;
+    width: 16rem;
+    color: white;
+}
+
+.pocket p{
+    font: 30px;
+    width: 50px;
+    margin-top: 130%;
+    padding-left: 35px;
+    font-family:'Josefin Sans', sans-serif;
+
+}
+
+.the{
+    background:url(./images/desktop/image-curiosity.jpg);
+    height: 28rem;
+    width: 16rem;
+    color: white;
+}
+
+.the p{
+    font: 30px;
+    width: 50px;
+    margin-top: 130%;
+    padding-left: 35px;
+    font-family:'Josefin Sans', sans-serif;
+
+}
+
+.make{
+    background:url(./images/desktop/image-fisheye.jpg);
+    height: 28rem;
+    width: 16rem;
+    color: white;
+}
+
+.make p{
+    font: 30px;
+    width: 50px;
+    margin-top: 130%;
+    padding-left: 35px;
+    font-family:'Josefin Sans', sans-serif;
+
+}
+
+.down{
+    
+}
+.box{
+    /* display: flex; */
+    /* grid-template-columns: 50%; */
+    /* flex-direction: column; */
+}
+
+/* image{
+    display: grid;
+    grid-template-columns: auto auto;
+} */
+
+.down{
+    
+    
+}
+    
